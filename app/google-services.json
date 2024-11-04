@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "142670312367",
+    "project_id": "crudfirestore-f2dd5",
+    "storage_bucket": "crudfirestore-f2dd5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142670312367:android:e50d15ab8e006dd1b3f55a",
+        "android_client_info": {
+          "package_name": "com.smb.crud_firestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZYp2DC7VksfHpeR9PZqpqARH1fWgpfJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142670312367:android:c5f788d3b28b6bf0b3f55a",
+        "android_client_info": {
+          "package_name": "com.smb.crudfirestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZYp2DC7VksfHpeR9PZqpqARH1fWgpfJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
